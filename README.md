@@ -1,4 +1,5 @@
-# app2
+# Locker Management App
+by Bhavik Limbasiya
 
 A new Flutter project.
 
